@@ -5,3 +5,6 @@
 var myVar = "Hello, world!";
 ```
 
+- [X] Open github account
+- [X] Sign up for student benefit
+- [ ] Learn!
